@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.work-sans-font {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* Navigation bar */
+.nav-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-menu ul li{
+    display: flex;
+}
+.nav-list{
+    display: flex;
+}
+.nav-icon{
+    max-width: 30px;
+    max-height: 30px;
+    filter: grayscale(100%);
+}
